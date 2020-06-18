@@ -2,7 +2,21 @@
 
 International Webinar on COVID-19 pandemic at Institute of Bioinformatics, Bangalore, India
 Event Timing: 3-7 pm IST June 23th-25th, 2020
-Contact us at +918660308678 or abhishek@ibioinformatics.org
+Contact us at +918660308678 or 
+abhishek@ibioinformatics.org
+----
+
+Register:https://tinyurl.com/COVID19IOB
+---------
+Join via Google meet
+--------
+Day1: https://tinyurl.com/COVID19IOBday1
+-------
+Day2: https://tinyurl.com/COVID19IOBday2
+-------
+Day3: https://tinyurl.com/COVID19IOBday3
+-------
+
 
 
 
@@ -120,16 +134,4 @@ D3.5	-- Understanding nucleocapsid protein of SARS-CoV-2
 Abhishek Kumar, 
 -----
 Faculty Research Scientist & Ramalingaswami Fellow Institute of Bioinformatics, Whitefield, Bangalore, India
-
-Register:https://tinyurl.com/COVID19IOB
----------
-Join via Google meet
---------
-Day1: https://tinyurl.com/COVID19IOBday1
--------
-Day2: https://tinyurl.com/COVID19IOBday2
--------
-Day3: https://tinyurl.com/COVID19IOBday3
--------
-
 
