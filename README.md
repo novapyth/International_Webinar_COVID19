@@ -9,12 +9,18 @@ Contact us at +918660308678 or abhishek@ibioinformatics.org
  
 Day	 
 Title, Speaker, affiliation
- 
-Day-1	 
-3-7 pm 23/06/2020
+-----
+
+Day-1	 3-7 pm 23/06/2020
+-----
 D1.1		Building Ecosystem For Fostering Cutting-Edge Life science /Healthcare innovation
-Dr. Taslimarif Saiyed, Director and CEO, Centre for Cellular and Molecular Platforms, GKVK Post, Bellary Road Bangalore 560 065, India
+-----
+Dr. Taslimarif Saiyed, 
+-----
+Director and CEO, Centre for Cellular and Molecular Platforms, GKVK Post, Bellary Road Bangalore 560 065, India
+
 D1.2	Phylogenetic network analysis of SARS-CoV-2 genomes
+-----
 Prof. Dr. Peter Forster, Fellow, McDonald Institute for Archaeological Research, University of Cambridge, UK Director of Research, Institute for Forensic Genetics, Muenster, Germany
 D1.3	Repurposing drugs against main protease of SARS-CoV2
 Prof. Dr. N. Srinivasan, Professor & Chair, Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560012, India
