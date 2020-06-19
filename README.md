@@ -134,5 +134,5 @@ D3.5	-- Understanding nucleocapsid protein of SARS-CoV-2
 -----
 Abhishek Kumar, 
 -----
-Faculty Research Scientist & Ramalingaswami Fellow Institute of Bioinformatics, Whitefield, Bangalore, India
+Faculty Research Scientist & Ramalingaswami Fellow, Institute of Bioinformatics, Whitefield, Bangalore, India
 
