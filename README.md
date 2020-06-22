@@ -74,7 +74,7 @@ Dr. Maximilian Haeußler,
 
 Genomics Institute, University of California Santa Cruz, Santa Cruz, CA, USA
 
-D2.3	-- Title awaited
+D2.3	-- National screening within databases of FDA-approved drugs and naturally available small molecules for SARs-Cov-2 NSP1 inhibitors
 -----
 
 Prof. Dr. Prof. R. Sowdhamini, 
@@ -83,7 +83,7 @@ Prof. Dr. Prof. R. Sowdhamini,
 National Centre for Biological Sciences, 
 Tata Institute of Fundamental Research, Bangalore, India 
 
-D2.4	-- Title awaited
+D2.4	-- Structural and computational biology approaches for drug repurposing and new drug discovery against COVID-19
 -----
 Dr. Neel Sarovar Bhavesh
 -----
