@@ -59,7 +59,7 @@ Senior Scientist, Systems Biology, Department of Biotechnology and Bioinformatic
 
 Day-2	-- 3-7 pm 24/06/2020
 -----
-D2.1	Title awaited 
+D2.1	Researchers and Startups building Solutions for COVID-19
 -----
 Prof. Dr. Mrutyunjay Suar, 
 -----
