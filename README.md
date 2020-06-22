@@ -86,7 +86,7 @@ Prof. Dr. Neel Sarovar Bhavesh,
 -----
 Group Leader, Transcription Regulation group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India
 
-D2.5	-- Host response to novel coronavirus infection”
+D2.5	-- Host response to novel coronavirus infection
 -----
 Prof. Dr. Ravi Tandon, 
 -----
@@ -95,7 +95,7 @@ School of Biotechnology, Jawaharlal Nehru University, New Delhi, India
 Day-3	25/06/2020
 -----
 
-D3.1	-- Title awaited
+D3.1	-- Genomics of SARS CoV-2; applications of NGS sequence data in Vaccine development
 -----
 
 Dr. Raja Mugasimangalam,
