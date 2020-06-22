@@ -49,14 +49,12 @@ D1.4	-- Evolution of SARS-CoV-2: demystified using data
 -----
 Dr. Urmila Kulkarni-Kale, 
 -----
-
 Information Scientist, Bioinformatics Centre, Savitribai Phule Pune University, Pune, India
 
 D1.5	-- Systems Understanding of COVID-19: Lessons From Temperature Independence to Receptor Dependence 
 -----
 Dr. Prashanth N Suravajhala, 
 -----
-
 Senior Scientist, Systems Biology, Department of Biotechnology and Bioinformatics Birla Institute of Scientific Research Jaipur, RJ, India
 
 Day-2	-- 3-7 pm 24/06/2020
@@ -71,7 +69,6 @@ D2.2	 -- The UCSC SARS-CoV-2 genome browser
 -----
 Dr. Maximilian Haeußler, 
 -----
-
 Genomics Institute, University of California Santa Cruz, Santa Cruz, CA, USA
 
 D2.3	-- National screening within databases of FDA-approved drugs and naturally available small molecules for SARs-Cov-2 NSP1 inhibitors
@@ -85,16 +82,14 @@ Tata Institute of Fundamental Research, Bangalore, India
 
 D2.4	-- Structural and computational biology approaches for drug repurposing and new drug discovery against COVID-19
 -----
-Dr. Neel Sarovar Bhavesh
+Dr. Neel Sarovar Bhavesh,
 -----
-
 Group Leader, Transcription Regulation group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India
 
 D2.5	-- Host response to novel coronavirus infection”
 -----
 Dr. Ravi Tandon, 
 -----
-
 School of Biotechnology, Jawaharlal Nehru University, New Delhi, India
 
 Day-3	25/06/2020
