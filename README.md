@@ -28,7 +28,7 @@ Day-1	  -- 3-7 pm 23/06/2020
 -----
 D1.1		-- Building Ecosystem For Fostering Cutting-Edge Life science /Healthcare innovation
 -----
-Dr. Taslimarif Saiyed, 
+Prof. Dr. Taslimarif Saiyed, 
 -----
 Director and CEO, Centre for Cellular and Molecular Platforms, GKVK Post, Bellary Road Bangalore 560 065, India
 
@@ -47,13 +47,13 @@ Professor & Chair, Molecular Biophysics Unit, Indian Institute of Science, Banga
 
 D1.4	-- Evolution of SARS-CoV-2: demystified using data
 -----
-Dr. Urmila Kulkarni-Kale, 
+Prof. Dr. Urmila Kulkarni-Kale, 
 -----
 Information Scientist, Bioinformatics Centre, Savitribai Phule Pune University, Pune, India
 
 D1.5	-- Systems Understanding of COVID-19: Lessons From Temperature Independence to Receptor Dependence 
 -----
-Dr. Prashanth N Suravajhala, 
+Prof. Dr. Prashanth N Suravajhala, 
 -----
 Senior Scientist, Systems Biology, Department of Biotechnology and Bioinformatics Birla Institute of Scientific Research Jaipur, RJ, India
 
@@ -61,7 +61,7 @@ Day-2	-- 3-7 pm 24/06/2020
 -----
 D2.1	Title awaited 
 -----
-Dr. Mrutyunjay Suar, 
+Prof. Dr. Mrutyunjay Suar, 
 -----
 Director, School of Biotechnology, KIIT UNIVERSITY, Patia, Bhubaneswar, India
 
@@ -82,13 +82,13 @@ Tata Institute of Fundamental Research, Bangalore, India
 
 D2.4	-- Structural and computational biology approaches for drug repurposing and new drug discovery against COVID-19
 -----
-Dr. Neel Sarovar Bhavesh,
+Prof. Dr. Neel Sarovar Bhavesh,
 -----
 Group Leader, Transcription Regulation group, International Centre for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India
 
 D2.5	-- Host response to novel coronavirus infection”
 -----
-Dr. Ravi Tandon, 
+Prof. Dr. Ravi Tandon, 
 -----
 School of Biotechnology, Jawaharlal Nehru University, New Delhi, India
 
@@ -120,7 +120,7 @@ Department of Biotechnology, M L Sukhadia University, Udaipur, India
 
 D3.4	-- Understanding nucleocapsid protein of SARS-CoV-2
 -----
-Abhishek Kumar, 
+Prof. Dr. Abhishek Kumar, 
 -----
 Faculty Research Scientist & Ramalingaswami Fellow, Institute of Bioinformatics, Whitefield, Bangalore, India
 
