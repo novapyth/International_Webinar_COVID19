@@ -125,7 +125,15 @@ Prof. Dr. Abhishek Kumar,
 Faculty Research Scientist & Ramalingaswami Fellow, Institute of Bioinformatics, Whitefield, Bangalore, India
 
 
-D3.5	-- Nanopore sequencing - enabling rapid detection and rapid response during pandemics
+D3.5 -- Machine Learning Analysis of National Vaccination Schedules And Rates of Compliance reveals correlation with COVID-19 Mortality 
+----
+Prof. Dr. Malik Yousef
+-----
+
+Department of Community Information Systems, Zefat Academic College, Zefat, Israel
+
+
+D3.6	-- Nanopore sequencing - enabling rapid detection and rapid response during pandemics
 -----
 
 Dr. Miten Jain, 
