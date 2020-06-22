@@ -102,13 +102,13 @@ Dr. Raja Mugasimangalam,
 -----
 Founder and CEO, Genotypic Technology, Bangalore, India
 
-D3.2	-- Nanopore sequencing - enabling rapid detection and rapid response during pandemics
+D3.2	-- Diversity and Evolution of Coronaviruses: Whole Genome and Pan-genome Perspective
 -----
 
-Dr. Miten Jain, 
+Dr. Gaurav Sharma, 
 -----
-Genomics Institute, University of California Santa Cruz, Santa Cruz, CA,  USA
-
+Faculty Scientist, Institute of Bioinformatics and Applied Biotechnology, 
+Biotech Park, Electronics City Phase 1, Electronic City, Bangalore, India  
 
 D3.3	-- Sythetic RGD Peptide based Treatment Therapy for COVID-19
 -----
@@ -117,17 +117,17 @@ Dr. Tikam Chand Dakal,
 Department of Biotechnology, M L Sukhadia University, Udaipur, India
 
 
-D3.4	-- Diversity and Evolution of Coronaviruses: Whole Genome and Pan-genome Perspective
------
 
-Dr. Gaurav Sharma, 
------
-Faculty Scientist, Institute of Bioinformatics and Applied Biotechnology, 
-Biotech Park, Electronics City Phase 1, Electronic City, Bangalore, India  
-
-D3.5	-- Understanding nucleocapsid protein of SARS-CoV-2
+D3.4	-- Understanding nucleocapsid protein of SARS-CoV-2
 -----
 Abhishek Kumar, 
 -----
 Faculty Research Scientist & Ramalingaswami Fellow, Institute of Bioinformatics, Whitefield, Bangalore, India
 
+
+D3.5	-- Nanopore sequencing - enabling rapid detection and rapid response during pandemics
+-----
+
+Dr. Miten Jain, 
+-----
+Genomics Institute, University of California Santa Cruz, Santa Cruz, CA,  USA
