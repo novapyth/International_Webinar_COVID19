@@ -18,9 +18,13 @@ Day2: https://tinyurl.com/COVID19IOBday2
 Day3: https://tinyurl.com/COVID19IOBday3
 -------
 
+Join via Youtube
+--------
 
-
-
+Day1: https://www.youtube.com/watch?v=AcI1H8P8aEs&feature=youtu.be
+----------------
+Day2: https://www.youtube.com/watch?v=9dftcdg_4tg
+----------------
 List of speakers
 -----
 
