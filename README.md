@@ -77,7 +77,7 @@ Genomics Institute, University of California Santa Cruz, Santa Cruz, CA, USA
 D2.3	-- Computational screening within databases of FDA-approved drugs and naturally available small molecules for SARs-Cov-2 NSP1 inhibitors
 -----
 
-Prof. Dr. Prof. R. Sowdhamini, 
+Prof. Dr. R. Sowdhamini, 
 -----
 
 National Centre for Biological Sciences, 
