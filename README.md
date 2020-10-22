@@ -113,7 +113,7 @@ Dr. Gaurav Sharma,
 Faculty Scientist, Institute of Bioinformatics and Applied Biotechnology, 
 Biotech Park, Electronics City Phase 1, Electronic City, Bangalore, India  
 
-D3.3	-- Sythetic RGD Peptide based Treatment Therapy for COVID-19
+D3.3	-- Synthetic RGD Peptide based Treatment Therapy for COVID-19
 -----
 Dr. Tikam Chand Dakal, 
 -----
